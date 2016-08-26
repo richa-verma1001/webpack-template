@@ -1,0 +1,36 @@
+{
+  "name": "webpack-template",
+  "version": "1.0.0",
+  "description": "Main focus of this applicaiton is to show you how to setup a very basic webpack.config.js file",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "babel": "^6.5.2",
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "connect": "^3.4.1",
+    "html-webpack-plugin": "^2.22.0",
+    "karma": "^1.2.0",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "production": "webpack -p",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richa-verma1001/angular-ecosystem.git"
+  },
+  "keywords": [
+    "angular",
+    "helloWorld",
+    "ecosystem"
+  ],
+  "author": "Richa Verma",
+  "bugs": {
+    "url": "https://github.com/richa-verma1001/angular-ecosystem/issues"
+  },
+  "homepage": "https://github.com/richa-verma1001/angular-ecosystem#readme"
+}
