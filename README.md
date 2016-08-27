@@ -34,4 +34,8 @@ output: {
 This is a simple application. Upon run, by default webpack-dev-server will host your dist/index.html file on localhost:8080. If you hit this page in the browser, you will see the result of app/index.html printing 'Hello Webpack' in your browser and dist/index_bundle.js script printing 'Hello Webapck' in your console.
 
 ### Notes
-Note server.js exists but is not used in this template. Babel loaded used in this template is also not needed yet. 
+Note server.js exists but is not used in this template. Babel loaded used in this template is also not needed yet.
+
+
+### References
++ https://www.youtube.com/watch?v=v3PNhMk4MWg
