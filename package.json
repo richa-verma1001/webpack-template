@@ -30,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/richa-verma1001/angular-ecosystem.git"
+    "url": "git+https://github.com/richa-verma1001/webpack-template.git"
   },
   "keywords": [
     "angular",
@@ -39,7 +39,7 @@
   ],
   "author": "Richa Verma",
   "bugs": {
-    "url": "https://github.com/richa-verma1001/angular-ecosystem/issues"
+    "url": "https://github.com/richa-verma1001/webpack-template/issues"
   },
-  "homepage": "https://github.com/richa-verma1001/angular-ecosystem#readme"
+  "homepage": "https://github.com/richa-verma1001/webpack-template#readme"
 }
